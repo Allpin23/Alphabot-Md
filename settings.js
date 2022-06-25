@@ -18,9 +18,9 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "AlphinBotz" //namabot kalian
+global.botname = "NomorBotOnline24jam! : 087730070088" //namabot kalian
 global.ownername= "PemilikBot:089648311511" //nama kalian
-global.myweb ="https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh" //bebas asal jan hapus
+global.myweb ="Wa.me/6287730070088" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh" //bebas asal jan hapus
 global.github = "PemilikBot" //bebas
 global.email = "KontakPemilikBot" //bebas
